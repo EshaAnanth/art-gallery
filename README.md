@@ -1,4 +1,6 @@
-## Art Gallery
+## First Impressions
+
+"A picture paints a thousand words" 
 
 ### Photography
 
