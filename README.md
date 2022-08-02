@@ -1,3 +1,17 @@
+## Art Gallery
+
+### Photography
+
+"Photography is an art of observation. It has little to do with the things you see and everything to do with the way you see them." 
+- Elliott Erwitt
+
+### Digital Art
+
+### Creative Writing
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/EshaAnanth/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
