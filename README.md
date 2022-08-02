@@ -2,8 +2,7 @@
 
 ### Photography
 
-"Photography is an art of observation. It has little to do with the things you see and everything to do with the way you see them." 
-- Elliott Erwitt
+"Photography is an art of observation. It has little to do with the things you see and everything to do with the way you see them." - Elliott Erwitt
 
 ### Digital Art
 
